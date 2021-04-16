@@ -1,4 +1,11 @@
 # pokeapi
+Poekeapi es una aplicación hecha en vuejs, con nuxt y vuetify, consumiendo el api de pokemones a traves de axios donde se muestra una lista con algunos de estos y tambien consumiendo información especifica para mostrar información mas detallada del que se escoja 
+
+## Tecnologias implementadas:
+- Vuejs
+- Nuxtjs
+- Vuetify
+- Axios
 
 ## Build Setup
 
